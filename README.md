@@ -7,7 +7,7 @@ Le développement comporte deux parties, une partie [théorique](./src/theory) e
 ## Théorie
 
 Dans [Statement.v](./src/theory/Statement.v) on trouve la syntaxe d'un langage impératif classique.
-Le fichier [FloydHoareWp.v](./src/theory/FloydHoareWp.v) contient une logique de Hoare et une définition 
+Le fichier [HoareWp.v](./src/theory/HoareWp.v) contient une logique de Hoare et une définition 
 du raffinement de programmes à partir de cette logique. On définit aussi une sémantique prédicative du 
 langage dans [Predicative.v](./src/theory/Predicative.v), et l'équivalence (modulo raffinement) entre cette 
 sémantique et la logique de Hoare est établie dans [HoareWp_Predicative.v](./src/theory/HoareWp_Predicative.v).
