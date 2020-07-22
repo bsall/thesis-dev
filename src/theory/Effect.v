@@ -1,0 +1,1 @@
+Definition Effect { T U : Type } := T -> U.
