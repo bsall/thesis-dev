@@ -14,7 +14,7 @@ Le dossier [examples](./src/examples) contient des illustrations de preuve de pr
 ## Description
 La théorie formalisée par ce développement Coq est décrite dans ce [manuscrit](./sall-manuscrit.pdf). Le tableau ci-dessous fait correspondre les définitions et résultats principaux avec leur nom dans les fichiers .v.
 
-| Définitions | Nom | Fichier |
+| Définitions | Nom | Fichier | 
 | ----------- | --- | ------- |
 | [Définition 8](./src/theory/LeastFixpoint.v#L7) | lfp | [LeastFixpoint.v](./src/theory/LeastFixpoint.v) |
 | [Lemme 1](./src/theory/LeastFixpoint.v#L28) | f_lfp | [LeastFixpoint.v](./src/theory/LeastFixpoint.v) |
