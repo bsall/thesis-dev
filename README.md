@@ -51,7 +51,7 @@ La théorie formalisée par ce développement Coq est décrite dans ce [manuscri
 | [Lemme 14 (1)](./src/theory/Wpr.v#L46) | wpr_while_construct, wpr_while_destruct | [Wpr.v](./src/theory/Wpr.v) |
 | [Lemme 14 (2)](./src/theory/Wpr.v#L60) | wpr_while_ind | [Wpr.v](./src/theory/Wpr.v) |
 | [Lemme 15](./src/theory/Wpr.v#L82) | wpr_pred | [Wpr.v](./src/theory/Wpr.v) |
-| [Théorème 4](./src/theory/Wpr.v#L200) | wpr_refines | [Wpr.v](./src/theory/Wpr.v) |
+| [Théorème 5](./src/theory/Wpr.v#L200) | wpr_refines | [Wpr.v](./src/theory/Wpr.v) |
 | [Lemme 16](./src/theory/Predicative.v#L603) | wfd_while_iff_if | [Predicative.v](./src/theory/Predicative.v) |
 | [Théorème 6](./src/theory/Predicative.v#L1138) | while_rule_sound_and_complete | [Predicative.v](./src/theory/Predicative.v) |
 | [Langage de développement](./src/theory/CbC.v#L9) (Figure 6.2) | Dev | [CbC.v](./src/theory/CbC.v) |
