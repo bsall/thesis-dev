@@ -1,6 +1,6 @@
 # Programmation impérative par raffinements avec l'assistant de preuve Coq
 
-Ce développement nécessite Coq 8.9.1. Le projet peut être compilé en tapant la commande : *make -f CoqMakefile*. L'installation de [Proof General](https://proofgeneral.github.io/) et [company coq](https://github.com/cpitclaudel/company-coq) est recommandée. Le développement comporte deux parties, une partie [théorique](./src/theory) et quelques [exemples](./src/examples).
+Ce développement nécessite Coq 8.9.1. Le projet peut être compilé avec la commande : *make -f CoqMakefile*. L'installation de [Proof General](https://proofgeneral.github.io/) et [company coq](https://github.com/cpitclaudel/company-coq) est recommandée. Le développement comporte deux parties, une partie [théorique](./src/theory) et quelques [exemples](./src/examples).
 
 ## Théorie
 
